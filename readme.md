@@ -19,4 +19,8 @@ vRP0.5 or vRPEX (1.0)
 
 ## Authors
 
-* *GaloCego** - *Initial work* - [PurpleBooth](http://vpsservice.ddns.net)
+* *GaloCego** - *Initial work* - [VPSService](http://vpsservice.ddns.net)
+
+##Video 
+
+[Play video](https://vimeo.com/380570711)
