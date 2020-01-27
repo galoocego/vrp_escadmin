@@ -5,7 +5,7 @@ Set vRP0.5 and vRPEX players groups with a simple interface
 ## Getting Started
 
 Add vrp_escadmin in your resource folder and add in your server.cfg.
-In game wirte in chat /setgroup [id], where id is a player id.
+In game write in chat /setgroup [id], where id is a player id.
 
 Example:
 /setgroup 3
