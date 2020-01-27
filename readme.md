@@ -23,4 +23,4 @@ vRP0.5 or vRPEX (1.0)
 
 ##Video 
 
-[Play video](https://vimeo.com/380570711)
+In portuguese [Play video](https://vimeo.com/380570711)

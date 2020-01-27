@@ -54,12 +54,12 @@
         let player = document.getElementById("playerId").value
 
         Swal.fire({
-            title: 'Atenção!',
-            text: "Você tem certeza que deseja realmente atribuir estes grupos!",
+            title: 'Warning!',
+            text: "Wolud you like change groups of the player?",
             showCancelButton: true,
             confirmButtonColor: '#3085d6',
             cancelButtonColor: '#d33',
-            confirmButtonText: 'SIM'
+            confirmButtonText: 'YES'
           }).then((result) => {
             if (result.value) {
                 $('.container').css("display","none");
