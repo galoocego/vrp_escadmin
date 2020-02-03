@@ -32,5 +32,5 @@ RegisterNUICallback('aceitar', function(data, cb)
 end)
 
 function limparHTML() 
-    SetNuiFocus(false)
+    SetNuiFocus(false, false)
   end
