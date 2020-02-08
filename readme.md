@@ -21,6 +21,9 @@ vRP0.5 or vRPEX (1.0)
 
 * *GaloCego** - *Initial work* - [VPSService](http://vpsservice.ddns.net)
 
-##Video 
+## Video 
 
 In portuguese [Play video](https://vimeo.com/380570711)
+
+## Contact
+discord: GaloCego#9290
