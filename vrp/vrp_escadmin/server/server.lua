@@ -35,7 +35,9 @@ AddEventHandler('vrp_escadmin:aceito',function(grupos, playerId)
 
     p_grupos = vRP.getUserGroups({player})
     for x, y in pairs(p_grupos) do
-        vRP.removeUserGroup({player, x})
+        if x ~= "user" then
+          vRP.removeUserGroup({player, x})
+        end
         --print(x)
     end
 
